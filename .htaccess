@@ -1,0 +1,15 @@
+Options -Indexes FollowSymLinks -Multiviews
+
+php_value date.timezone "Africa/Cairo"
+php_value date.default_latitude "30.05"
+php_value date.default_longitude "31.25"
+
+RewriteEngine On
+
+#ErrorDocument 404 /
+
+# Ignore assets Directory
+RewriteCond %{REQUEST_URI} !(/assets)
+
+# Serve All Requests To index.php
+RewriteRule .* index.php [QSA,L]
