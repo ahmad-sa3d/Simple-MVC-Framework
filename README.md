@@ -1,9 +1,9 @@
 ## PHP-Simple MVC Framework
 
 
-> This is simple MVC PHP Framework May Be Suitable For Small And Medium projects According To Your Project Requirements, It Is **`REST API`** , **`Clean Uris`**, **`MVC`** Pattern, __`View Templating`__ And __`Smart Response`__ , And Othere Features You Will Explore
+> This is simple MVC PHP Framework May Be Suitable For Small And Medium projects According To Your Project Requirements, It Is **`REST API`** , **`Clean Uris`**, **`MVC`** Pattern, __`View Templating`__ And __`Smart Response`__ , And Other Features You Will Explore
 > 
-> I'm a big Fan of `Laravel` Framework And Very Thanks To `Taylor Otwell` and Other Contributors For His Great Framework, So You Might Find here Some method names like in Laravel
+> I'm a big Fan of `Laravel` Framework And Big Thanks To `Taylor Otwell` and Other Contributors For His Great Framework, So You Might Find here Some method names like in Laravel
 
 ### License
 
